@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sushi/static/css/main.84bfe1ed.chunk.css",
+    "main.js": "/sushi/static/js/main.e42e6387.chunk.js",
+    "main.js.map": "/sushi/static/js/main.e42e6387.chunk.js.map",
+    "runtime-main.js": "/sushi/static/js/runtime-main.43cc70dd.js",
+    "runtime-main.js.map": "/sushi/static/js/runtime-main.43cc70dd.js.map",
+    "static/js/2.04e8c0d3.chunk.js": "/sushi/static/js/2.04e8c0d3.chunk.js",
+    "static/js/2.04e8c0d3.chunk.js.map": "/sushi/static/js/2.04e8c0d3.chunk.js.map",
+    "index.html": "/sushi/index.html",
+    "static/css/main.84bfe1ed.chunk.css.map": "/sushi/static/css/main.84bfe1ed.chunk.css.map",
+    "static/js/2.04e8c0d3.chunk.js.LICENSE.txt": "/sushi/static/js/2.04e8c0d3.chunk.js.LICENSE.txt",
+    "static/media/rolly.73d08de3.jpg": "/sushi/static/media/rolly.73d08de3.jpg",
+    "static/media/rolly2.ab2ebe48.jpg": "/sushi/static/media/rolly2.ab2ebe48.jpg",
+    "static/media/rolly3.1e1d429e.png": "/sushi/static/media/rolly3.1e1d429e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43cc70dd.js",
+    "static/js/2.04e8c0d3.chunk.js",
+    "static/css/main.84bfe1ed.chunk.css",
+    "static/js/main.e42e6387.chunk.js"
+  ]
+}
